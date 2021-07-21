@@ -1,2 +1,2 @@
 # php-api-proxymz
-Mã nguồn tích hợp API ProxyMZ dành cho nhà phát triên
+Mã nguồn tích hợp PHP API ProxyMZ dành cho nhà phát triển web
