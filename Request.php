@@ -21,6 +21,7 @@ class Request
     public function setAccessToken($token = null)
     {
         $this->accessToken = $token;
+        $this->headers['Authorization'] = 'Bearer ' . $token;
         return $this;
     }
     public function setURL($path = "")
